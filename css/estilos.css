@@ -34,3 +34,8 @@ body
 #post {
     padding: 1em;
 }
+#footer {
+    background: moccasin;
+    color: black;
+    text-align: center;
+}
